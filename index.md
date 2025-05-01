@@ -1,1 +1,1 @@
-# ymjoo12.github.io
+이곳은 [`durumari`](https://github.com/ymjoo12)의 개인 블로그가 될 페이지입니다.
